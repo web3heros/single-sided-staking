@@ -1,0 +1,7 @@
+{
+  "exclude_informational": true,
+  "exclude_low": true,
+  "disable_color": false,
+  "filter_paths": "",
+  "solc_remaps": "@openzeppelin/=/share/node_modules/@openzeppelin/"
+}
